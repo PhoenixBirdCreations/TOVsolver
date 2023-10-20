@@ -1,0 +1,17 @@
+#Calculate a star or a sequence (STAR, SEQ)
+SEQ
+
+#Check accuracy of the calculations (checkAccuracy) - see README (1 TRUE, 0 FALSE)
+0
+
+#Save radial profile to a file (saveRadialProfile) - only for STAR (1 TRUE, 0 FALSE)
+0
+
+#Central density in g/cm^3 - only for STAR (1 TRUE, 0 FALSE)
+1e15
+
+#Parameter for the SEQ: initial density, final density, density step
+2e15
+1e15
+-0.1e15
+
